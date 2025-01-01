@@ -1,0 +1,21 @@
+source: src
+destination: dist
+theme: minima
+lang: en
+languages: ["en", "ru"]
+
+title: Kanach Yerevan
+description: Kanach Yerevan is a social movement that aims to make Yerevan a greener, more sustainable and more livable city.
+author: Some Author
+email: makeyerevangreenagain@gmail.com
+
+minima:
+  date_format: "%d.%m.%Y"
+  skin: solarized
+
+instagram_username: kanach.yerevan
+youtube_username: YerevanObserver
+
+header_pages:
+  - about.md
+  - mapping.md
