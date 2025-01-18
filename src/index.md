@@ -10,7 +10,7 @@ Our main product currently is the [tree mapping application](/mapping.html), fie
 
 ## Publications
 
-- [60% of trees in Yerevan under thread](/pubs/60-percent/) (Russian)
+- [60% of trees in Yerevan under thread](/pubs/60-percent/) (in Russian)
 
 
 ## Follow us
