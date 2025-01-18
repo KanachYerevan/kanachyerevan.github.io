@@ -8,4 +8,4 @@ This height is referred to as "chest level", but since not all people are equall
 
 The value is entered to the [application](/mapping.html) in centimeters.
 
-<iframe width="506" height="899" src="https://www.youtube.com/embed/OhPFot1Mt6k" title="Using a diameter tape to measure the DBH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="aspect-ratio: 506/899; width: 100%; max-width: 506px" src="https://www.youtube.com/embed/OhPFot1Mt6k" title="Using a diameter tape to measure the DBH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
