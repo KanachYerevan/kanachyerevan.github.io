@@ -34,6 +34,8 @@ All this could be avoided by slightly adjusting current practices. Gradual repla
 
 Better still, instead of replacing existing trees, new ones should be planted in areas without any greenery. As of 2024, Yerevan's greenery was only [39% of its 1990 level](https://www.ecolur.org/files/uploads/2023%20new/Yerevan%20GCAP%20reports/reportonyerevangcaparmcompressed.pdf), prior to the "dark years." Reducing it by another 60% would be barbaric.
 
+January 18, 2025.
+
 ## Additional information
 
 1. Armen Begoyan, [project manager](https://greenyerevan.am/teams/%d5%bf%d5%ab%d5%a3%d6%80%d5%a1%d5%b6-%d5%b0%d5%a1%d5%af%d5%b8%d5%a2%d5%b5%d5%a1%d5%b6/) for Yerevan’s landscaping and environmental protection since 2019. In 1994, he graduated from the Polytechnic Institute, Faculty of Cybernetics, specializing in the automation of information processing and management systems. In 1996, he graduated from the same institute’s Faculty of Social Sciences with a degree in law. From 2004 to 2017, he worked in betting companies. He had no education or experience even remotely related to vegetation prior to his appointment.
