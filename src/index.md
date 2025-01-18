@@ -8,6 +8,11 @@ We do this by organizing mapping activities, hosting think tanks, and by raising
 Our main product currently is the [tree mapping application](/mapping.html), field reporting, and educational materials.
 
 
+## Publications
+
+- [60% of trees in Yerevan under thread](/pubs/60-percent/) (Russian)
+
+
 ## Follow us
 
 - [Mapping application](https://yerevan.treemaps.app/)
