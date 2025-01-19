@@ -6,7 +6,7 @@ lang: en
 
 > Translation: [Russian](/pubs/60-percent/ru/)
 
-In December 2024, Armen Begoyan, Director of the public organization "Kanachapatum," [stated](https://news.am/rus/news/857434.html) that elms and poplars have very short lifespans, currently around 70-80 years, and need to be replaced. Two years earlier, similar plans were announced by Artsvi Grigoryan, the organization's chief dendrologist. He claimed that **all maples, poplars, and elms should be replaced**, adding that **this accounts for about 60% of all trees in Yerevan**. Now, these plans [have been reiterated](https://news.am/rus/news/857434.html) with an added urgency — "as soon as possible." This suggests that felling will likely begin in spring 2025, likely in March, based on the timeline from 2024.
+In December 2024, Armen Begoyan, Director of the public organization "Kanachapatum," [stated](https://news.am/rus/news/857434.html) that elms and poplars have very short lifespans, currently around 70-80 years, and need to be replaced. Two years earlier, similar plans were announced by Artsvi Grigoryan, the organization's chief dendrologist. He claimed that **all maples, poplars, and elms should be replaced**, adding that **this accounts for about 60% of all trees in Yerevan**. Now, these plans have been reiterated with an added urgency — "as soon as possible." This suggests that felling will likely begin in spring 2025, likely in March, based on the timeline from 2024.
 
 Trees in the city serve many functions, including providing shade, reducing noise and dust, and creating habitats for insects and animals. While some residents might dismiss the importance of birds, insects, or noise reduction, shade and dust affect everyone.
 
