@@ -14,6 +14,8 @@ Please print the file, add your signature, and send to the following address:
 > 0015, Yerevan, Argishti str., 1  
 > Tigran Avinyan
 
+You can also send the letter in electronic form using [this page](https://arcanc.yerevan.am/).  It is best to send both physical and electronic letters.
+
 
 ## Why this is needed?
 
