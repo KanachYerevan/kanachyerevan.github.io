@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Обзор зелёных насаждений: ул. Туманяна"
+title: "Обзор: ул. Туманяна"
 lang: en
 permalink: "reports/tumanyan/ru/"
 ---
