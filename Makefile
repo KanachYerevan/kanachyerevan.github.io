@@ -3,7 +3,7 @@ DOCKER_FOLDERS = -v $(PWD):/srv/jekyll
 build:
 	mkdir -p .cache
 	docker run --rm $(DOCKER_FOLDERS) -e JEKYLL_ROOTLESS=1 -e JEKYLL_ENV=production docker.io/jekyll/jekyll jekyll build
-	find dist -type f | xargs ls -ldh
+	find dist -type f -print0 | xargs -0 ls -ldh
 
 shell:
 	mkdir -p .cache
