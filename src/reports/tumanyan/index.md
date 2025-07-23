@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Street Passport: Tumanyan str."
+title: "Green Space Review: Tumanyan str."
 lang: en
 permalink: "reports/tumanyan/"
 ---
+> Translation: [Russian](ru/)
+
 Kanach Yerevan created a report on the state of the trees along Tumanyan street in Yerevan, Armenia.
 This report contains data on the condition of the trees, their species, and the need for care.
 
-- [Read the report][1] (PDF coming later)
+- [Read the report][1] (PDF)
 
 Please send any comments and suggestions to our email address:
 
