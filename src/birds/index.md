@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Great Tit for Trees
+title: Great Tits for Yerevan
 ---
 
 Yerevan's beautiful oaks and other deciduous trees are facing a persistent threat from leaf miner moths. The larvae of these insects "mine" their way through leaves, draining the tree's vitality. Year after year, this damage weakens our green giants, making them vulnerable to disease and decay.
