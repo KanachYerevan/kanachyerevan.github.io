@@ -7,6 +7,8 @@ We do this by organizing mapping activities, hosting think tanks, and by raising
 
 Our main product currently is the [tree mapping application](/mapping.html), field reporting, and educational materials.
 
+> Make Yerevan Green Again!
+
 
 ## Campaigns
 
