@@ -19,6 +19,8 @@ Instead of chemicals, we turn to a proven, natural solution: biological control.
 
 By providing them with simple nest boxes, we invite them to stay, raise their families, and become the diligent guardians of our city's trees.
 
+![Great Tit](./parus-major-2.jpg)
+
 ## How you can help?
 
 You can become a tree guardian in 3 simple steps.
