@@ -2,6 +2,8 @@
 layout: page
 title: Great Tits for Yerevan
 ---
+> Translation: [English](./) - [Russian](./ru/) - [Armenian](./am/)
+
 The **great tit** (Parus major) is a bird that eats a huge number of insects, which makes it a great ally in the fight against pests.
 The bird has a unique talent: it can pull insect larvae out from inside the leaves, where pesticides can't reach them.
 A single great tit family can eat thousands of insects in a season, effectively protecting an area with hundreds of trees.
