@@ -2,6 +2,7 @@
 layout: page
 title: Great Tits for Yerevan
 lang: en
+description: Increase the Great Tit population in Yerevan by installing nesting boxes.
 ---
 > Translation: [English](./) - [Russian](./ru/) - [Armenian](./am/)
 
