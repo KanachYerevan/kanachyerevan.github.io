@@ -2,9 +2,9 @@
 layout: page
 title: Great Tits for Yerevan
 ---
-The **great tit** (parus major) is a bird that eats insects in huge amounts, which makes it a great option for biological pest control.
-The bird's unique "feature" is that it knows how to extract insect larvae from inside the leaves, where they cannot be reached by chemicals or any other solution.
-A single titmouse family can consume thousands of insects in a season, effectively protecting an area with hundreds of trees.
+The **great tit** (Parus major) is a bird that eats a huge number of insects, which makes it a great ally in the fight against pests.
+The bird has a unique talent: it can pull insect larvae out from inside the leaves, where pesticides can't reach them.
+A single great tit family can eat thousands of insects in a season, effectively protecting an area with hundreds of trees.
 This makes the great tit our main weapon for fighting leaf miner moths, which threaten Yerevan's oaks and chestnuts.
 
 ![Great Tit][2]
@@ -23,11 +23,11 @@ Whether you're an individual, a family, or a business, you can contribute to a g
 
 - Step 1: get a nest box. You can participate in one of our community workshops, where we make them, or build one yourself. We provide [simple, proven blueprints][1] that are perfect for Great Tits while keeping competitors out.
 - Step 2: install it wisely. It can be a tree, a building wall, or even a sturdy pole, as long as it's close to trees or greenery. Place it 3-6 meters high to keep it safe from predators like cats. Because Great Tits are territorial, to avoid conflicts, please install nest boxes at least 30-50 meters apart. One happy tit family is far more effective than two fighting ones.
-- Step 3: put your nest box on the map. Your actions are part of a larger, city-wide effort. By adding your nest box to our public map, you help us track our growing network of natural guardians, analyze the project's effectiveness, inspire others and maintain nest boxes in time. Collecting this data is vital for scaling the project and demonstrating its success to the municipalty.
+- Step 3: put your nest box on the map. Your actions are part of a larger, city-wide effort. By adding your nest box to our public map, you help us track our growing network of natural guardians, analyze the project's effectiveness, inspire others, and maintain the nest boxes over time. Collecting this data is vital for scaling the project and demonstrating its success to the municipality.
 
 Handy links:
 
-- [Download the guide][1], includes blueprints
+- [Download the guide (includes blueprints)][1]
 - [Open the Trees of Yerevan app](https://yerevan.treemaps.app/)
 
 ## Join the Flock!
