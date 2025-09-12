@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Синицы для Еревана
+lang: ru
 ---
 > Перевод: [English](../) - [Russian](../ru/) - [Armenian](../am/)
 

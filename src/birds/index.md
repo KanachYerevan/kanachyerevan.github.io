@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Great Tits for Yerevan
+lang: en
 ---
 > Translation: [English](./) - [Russian](./ru/) - [Armenian](./am/)
 
