@@ -31,3 +31,4 @@ Our main product currently is the [tree mapping application](/mapping.html), fie
 ## Other information
 
 - [Green Directory](/dir/). Links to shops, nurseries and professionals, related to plant care.
+- [Report tree dagame](/report/). If you see that an alive tree was cut recently, please report it.
