@@ -27,3 +27,7 @@ Our main product currently is the [tree mapping application](/mapping.html), fie
 - [Telegram channel](https://t.me/kanachyerevan) and [chat](https://t.me/make_yerevan_green_again)
 - [YouTube channel](https://youtube.com/@YerevanObserver)
 - [Facebook](https://www.facebook.com/profile.php?id=61561740262318)
+
+## Other information
+
+- [Green Directory](/dir/). Links to shops, nurseries and professionals, related to plant care.
