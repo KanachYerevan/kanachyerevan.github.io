@@ -39,7 +39,7 @@ jobs:
       - name: Build the pages
         uses: shalzz/zola-deploy-action@v0.21.0
         env:
-          BUILD_DIR: dist
+          BUILD_DIR: .
           BUILD_ONLY: true
 
       - name: Upload artifact
