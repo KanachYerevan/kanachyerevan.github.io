@@ -13,7 +13,7 @@ Our main product currently is the [tree mapping application](/mapping.html), fie
 
 ## Campaigns
 
-- [Great Tit for Trees](/birds/)
+- [Great Tits for Yerevan](/birds/)
 - [Meadow Lawns for Yerevan](/lawns/)
 
 ## Publications
