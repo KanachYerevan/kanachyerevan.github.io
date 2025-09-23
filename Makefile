@@ -6,4 +6,5 @@ serve:
 
 build:
 	rm -rf dist
+	mkdir -p dist
 	docker run --rm $(DOCKER_FOLDERS) $(DOCKER_IMAGE) build
