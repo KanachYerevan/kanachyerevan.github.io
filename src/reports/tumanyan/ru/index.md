@@ -17,5 +17,5 @@ Kanach Yerevan подготовил отчёт о состоянии дерев�
 
 Для отчёта использованы данные, собранные волонтёрами с помощью приложения [Trees of Yerevan][2].
 
-[1]: ../Kanach%20Report%20Tumanyan%20street.pdf
+[1]: /documents/Kanach-Report-Tumanyan-street.pdf
 [2]: https://yerevan.treemaps.app/map?q=addr:%22Tumanyan%20street%22

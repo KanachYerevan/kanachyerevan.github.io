@@ -43,6 +43,6 @@ description: Երևանում մեծ երաշտահավի պոպուլյացիա
 
 [Կապվեք մեզ հետ](/connect/)՝ նորությունների և միջոցառումների մասին տեղեկանալու համար։
 
-[1]: ../Great-Tits-for-Yerevan.pdf
+[1]: /documents/Great-Tits-for-Yerevan.pdf
 [2]: ../parus-major-2.jpg
 [3]: https://yerevan.treemaps.app/

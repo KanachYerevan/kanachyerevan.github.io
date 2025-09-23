@@ -106,4 +106,4 @@ To evenly distribute such a small amount of seeds, they are mixed with sand (in 
 
 ## Additional resources
 
-- [Download printable version](./Lawns-EN.pdf)
+- [Download printable version](/documents/Lawns-EN.pdf)

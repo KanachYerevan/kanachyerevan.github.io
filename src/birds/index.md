@@ -45,5 +45,5 @@ Thank you for your interest and your contribution.
 
 [Connect with us](/connect/) for updates and events.
 
-[1]: Great-Tits-for-Yerevan.pdf
+[1]: /documents/Great-Tits-for-Yerevan.pdf
 [2]: parus-major-2.jpg
