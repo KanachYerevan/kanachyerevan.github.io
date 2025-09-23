@@ -1,14 +1,9 @@
-DOCKER_FOLDERS = -v $(PWD):/srv/jekyll
-
-build:
-	mkdir -p .cache
-	docker run --rm $(DOCKER_FOLDERS) -e JEKYLL_ROOTLESS=1 -e JEKYLL_ENV=production docker.io/jekyll/jekyll jekyll build
-	find dist -type f -print0 | xargs -0 ls -ldh
-
-shell:
-	mkdir -p .cache
-	docker run -ti --rm $(DOCKER_FOLDERS) -e JEKYLL_ROOTLESS=1 docker.io/jekyll/jekyll bash
+DOCKER_FOLDERS = -v $(PWD):/app -w /app
+DOCKER_IMAGE = docker.io/jauderho/zola
 
 serve:
-	mkdir -p .cache
-	docker run -ti --net host --rm $(DOCKER_FOLDERS) -e JEKYLL_ROOTLESS=1 docker.io/jekyll/jekyll jekyll serve --watch
+	zola serve
+
+build:
+	rm -rf dist
+	docker run --rm $(DOCKER_FOLDERS) $(DOCKER_IMAGE) build
