@@ -26,37 +26,12 @@
     </head>
 
     <body class="{{ config.extra.hyde_theme }} {% if config.extra.hyde_reverse %}layout-reverse{% endif %}">
-        {% block sidebar %}
-            {% if config.base_url == "foobar" %}
-                <div class="sidebar">
-                    <div class="container {% if config.extra.hyde_sticky %}sidebar-sticky{% endif %}">
-                        <div class="sidebar-about">
-                            {% block sidebar_about %}
-                                <a href="{{ config.base_url }}"><h1>{{ config.title }}</h1></a>
-                                {% if config.description %}
-                                <p class="lead">{{config.description}}</p>
-                                {% endif %}
-                            {% endblock sidebar_about %}
-                        </div>
-
-                        <ul class="sidebar-nav">
-                            {% block sidebar_nav %}
-                            {% for link in config.extra.hyde_links %}
-                            <li class="sidebar-nav-item"><a href="{{link.url}}">{{link.name}}</a></li>
-                            {% endfor %}
-                            {% endblock sidebar_nav %}
-                        </ul>
-                    </div>
-                </div>
-            {% endif %}
-        {% endblock sidebar %}
-
         {% block header %}
             <header>
                 <div class="wrapper">
                     <a class="title" href="/">{{ config.title }}</a>
                     <nav>
-                        <a href="{{ get_url(path="@/about/_index.md", lang=lang) }}">About us</a>
+                        <a href="{{ get_url(path="@/about/index.md", lang=lang) }}">About us</a>
                         <a href="/mapping/">Mapping</a>
                     </nav>
                 </div>
@@ -90,7 +65,7 @@
                 <div class="wrapper">
                     <div class="text">
                         <p>{{ trans(key="footer", lang=lang) }}</p>
-                        <p><a href="{{ get_url(path="@/about/_index.md", lang=lang) }}">About us</a> &middot; <a href="{{ get_url(path="@/mapping/_index.md", lang="en") }}">Mapping</a></p>
+                        <p><a href="{{ get_url(path="@/about/index.md", lang=lang) }}">About us</a> &middot; <a href="{{ get_url(path="@/mapping/index.md", lang="en") }}">Mapping</a></p>
                     </div>
                     <div class="social">
                         <a href="https://instagram.com/kanach.yerevan" target="_blank" title="Kanach Yerevan on Instagram">

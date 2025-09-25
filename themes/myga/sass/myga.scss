@@ -86,7 +86,7 @@ main {
     letter-spacing: -1px;
     line-height: 1.15;
     font-weight: 400;
-    margin: 0 0 30px;
+    margin: 10px 0;
   }
 
   h2 {
@@ -111,6 +111,11 @@ main {
 
   img {
     max-width: 100%;
+  }
+
+  .post-date, .translate {
+    opacity: 0.5;
+    font-size: 85%;
   }
 }
 
@@ -163,11 +168,6 @@ footer {
 }
 
 .translate {
-  font-style: italic;
-  font-size: 15px;
-  color: #828282;
-  margin-top: -20px;
-
   span + span::before {
     content: ' · ';
   }

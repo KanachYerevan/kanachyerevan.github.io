@@ -1,6 +1,7 @@
 +++
 title = "Lawns for Yerevan"
 description = "Recommendations for the use of natural lawns."
+date = "2025-09-22"
 +++
 The state and maintenance methods of most lawns in Yerevan today face the problem of inefficiency. Most of the areas formally considered lawns are spontaneously overgrown plots with bare patches. Such "self-seeding" does not perform key ecological functions: it does not retain dust, does not support biodiversity, and absorbs moisture poorly. At the same time, city services spend resources on its regular but unsystematic mowing.
 

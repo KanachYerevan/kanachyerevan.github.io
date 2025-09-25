@@ -1,5 +1,6 @@
 +++
 title = "Green Space Review: Tumanyan str."
+date = "2025-07-17"
 +++
 Kanach Yerevan created a report on the state of the trees along Tumanyan street in Yerevan, Armenia.
 This report contains data on the condition of the trees, their species, and the need for care.
