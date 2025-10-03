@@ -177,6 +177,12 @@ footer {
   }
 }
 
+main .album {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
 @media screen and (max-width: 600px) {
   header nav {
     display: none;

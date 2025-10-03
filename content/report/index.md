@@ -15,6 +15,10 @@ You can do that online e-request website, following these steps:
 Thank you for being a voice for Yerevan's trees!
 Every report adds to our collective voice. This sustained attention sends a powerful and undeniable message to city authorities: we care for our trees, and we expect them to do the same. Your action today helps create a greener Yerevan tomorrow.
 
+## Some examples
+
+- [Damaged trees on Grigor Lusavorich street](001-grigor-lusavorich/) (in progress)
+
 [1]: https://docs.google.com/document/d/1Zt32UrBN5IxbBlZcjH0lbLyHFsPU07CIJYZkJaUq_RA/edit?usp=sharing
 [2]: https://e-request.am/en/e-letter
 [3]: /connect/
