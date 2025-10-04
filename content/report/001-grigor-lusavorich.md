@@ -14,7 +14,7 @@ A [video][1] was recorded and [photos][2] were made by a city resident on the sp
 On September 29, requests for investigation were sent to the Police and the Ministry of Environment.
 The message was sent via [e-request.am][3], using [this template][4] in Russian language, without any digital signature.
 
-On October 3, a response was received from the Ministry of Environment, stating that (1) an administrative case was opened, (2) an inspector together with "Kanachapatum" arborist Hazarapetyan visited the site for inspection, and (3) they concluded that the damage can only be assessed next spring, after the trees start to leaf out again, so (4) the case was set on pause.
+On October 3, a response was received from the Ministry of Environment, stating that (1) an administrative case was opened, (2) an inspector together with "Kanachapatum" dendrologist Arsen Hazarapetyan visited the site for inspection, and (3) they concluded that the damage can only be assessed next spring, after the trees start to leaf out again, so (4) the case was set on pause.
 
 <div class="album">
 <a href="/images/report-001/response-1a.jpg"><img src="/images/report-001/response-1a.thumb.jpg" /></a>
