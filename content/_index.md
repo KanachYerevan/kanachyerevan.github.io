@@ -1,5 +1,6 @@
 +++
 title = "Welcome"
+template = "home.html"
 +++
 **Kanach Yerevan** is a social movement that aims to make Yerevan a greener, more sustainable and more livable city.
 We do this by organizing mapping activities, hosting think tanks, and by raising awareness about the importance of urban greenery through public talks.

@@ -1,0 +1,15 @@
+{% extends "index.html" %}
+
+{% block content %}
+    <div class="post">
+      {% block languages %}
+          {% if section.translations | length > 1 %}
+              <div class="translate">{{ trans(key="translation", lang=lang) }}: {% for translation in section.translations %}
+                  <span><a href={{ translation.permalink }} title="{{ translation.title }}">{{ trans(key="language_name", lang=translation.lang) }}</a></span>
+              {% endfor %}</div>
+          {% endif %}
+      {% endblock languages %}
+
+      {{ section.content | safe }}
+    </div>
+{% endblock content %}
